@@ -6,3 +6,5 @@ Repository for Backend Development Supplementary Resources for ICT Team 01
 - Database schema
 - Common utility functions
 - Deployment scripts
+
+and also will include src, docs, scripts, tests folders
